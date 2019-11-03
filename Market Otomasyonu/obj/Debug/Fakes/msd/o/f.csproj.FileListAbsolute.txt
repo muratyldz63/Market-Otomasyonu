@@ -1,0 +1,9 @@
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\MySql.Data.6.10.6.0.Fakes.xml
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\MySql.Data.6.10.6.0.Fakes.dll
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\MySql.Data.6.10.6.0.Fakes.pdb
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\MySql.Data.dll
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\b\MySql.Data.xml
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\o\MySql.Data.6.10.6.0.Fakes.dll
+C:\Users\murat\Desktop\Market Otomasyonu\Market Otomasyonu\obj\Debug\Fakes\msd\o\MySql.Data.6.10.6.0.Fakes.pdb
